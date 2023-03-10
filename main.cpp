@@ -1,5 +1,5 @@
 y6h #include <iostream>
-#include "/Users/matiassosa/Desktop/macbookPro/utn/2do AÑO/Algoritmos/Desafio/funciones/funciones.hpp"
+#include ".funciones/funciones.hpp"
 using namespace std;
 
 //  PUNTO 1
